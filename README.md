@@ -75,7 +75,7 @@ Architecture, consensus mechanisms, token models, and other protocol-level compo
 
 ### Phase 02 — Core Development
 
-* [ ] Blockchain prototype
+* [x] Blockchain prototype
 * [ ] Transaction layer
 * [ ] Wallet prototype
 * [ ] Smart-contract environment
@@ -173,7 +173,7 @@ Nothing in this repository should be interpreted as financial advice, an investm
 
 ---
 
-### ⛓️ Omegablox
+### Omegablox
 
 **Explore. Build. Decentralize.**
 
