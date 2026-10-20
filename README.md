@@ -161,7 +161,7 @@ Before contributing, please check the project's contribution guidelines and curr
 
 ## 📜 License
 
-License information will be added as the project develops.
+License information will be added as the project develops to its first variant.
 
 ---
 
