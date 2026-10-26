@@ -12,7 +12,7 @@ The project is being developed as a space for experimenting with blockchain arch
 
 ## 🌐 Vision
 
-Omegablox aims to explore a more digital ecosystem where:
+Omegablox aims to explore a more open digital ecosystem where:
 
 * 🔗 Users can interact through decentralized infrastructure
 * 🔐 Ownership can be represented and verified on-chain
