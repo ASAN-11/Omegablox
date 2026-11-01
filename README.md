@@ -132,7 +132,7 @@ Encourage experimentation, contribution, and collaboration.
 ## 🧪 Current Status
 
 ```text
-████░░░░░░░░░░░░░░░░  Under Development
+  Under Development
 ```
 
 Omegablox is currently an **experimental development project**. It should not be considered production-ready infrastructure.
