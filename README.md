@@ -68,7 +68,7 @@ Architecture, consensus mechanisms, token models, and other protocol-level compo
 ### Phase 01 — Research & Architecture
 
 * [x] Project concept
-* [ ] Protocol research
+* [x] Protocol research
 * [ ] System architecture
 * [ ] Blockchain model
 * [ ] Technical specification
