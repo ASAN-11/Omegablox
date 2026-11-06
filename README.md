@@ -4,7 +4,7 @@
 
 🚧 **Status: Under Development**
 
-**Omegablox** is an experimental Web3 project exploring the foundations of decentralized applications, blockchain infrastructure, digital assets, and trustless peer-to-peer ecosystems.
+**Omegablox** is an  Web3 project exploring the foundations of decentralized applications, blockchain infrastructure, digital assets, and trustless peer-to-peer ecosystems.
 
 The project is being developed as a space for experimenting with blockchain architecture, decentralized services, smart contracts, and new ways of building applications on open networks.
 
